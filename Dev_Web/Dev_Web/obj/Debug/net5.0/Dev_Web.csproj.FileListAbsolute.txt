@@ -250,3 +250,4 @@ D:\IT-Web\IT-Device-Project\Dev_Web\Dev_Web\obj\Debug\net5.0\ref\Dev_Web.dll
 D:\IT-Web\IT-Device-Project\Dev_Web\Dev_Web\obj\Debug\net5.0\Dev_Web.pdb
 D:\IT-Web\IT-Device-Project\Dev_Web\Dev_Web\obj\Debug\net5.0\Dev_Web.genruntimeconfig.cache
 D:\IT-Web\IT-Device-Project\Dev_Web\Dev_Web\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+D:\IT-Web\IT-Device-Project\Dev_Web\Dev_Web\obj\Debug\net5.0\Razor\Views\Shared\Login_Layout.cshtml.g.cs
