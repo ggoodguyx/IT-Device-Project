@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Dev_Web.Controllers
+namespace Dev_Web.Controllers 
 {
     public class LoginController : Controller
     {
