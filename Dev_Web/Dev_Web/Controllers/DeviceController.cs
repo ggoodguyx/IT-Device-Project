@@ -12,5 +12,13 @@ namespace Dev_Web.Controllers
         {
             return View();
         }
+
+        public IActionResult Add_Device()
+        {
+            return View();
+        }
+
     }
+
 }
+
